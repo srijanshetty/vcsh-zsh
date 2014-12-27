@@ -9,3 +9,4 @@
 !.zprofile
 !.gitignore.d/
 !.gitignore.d/zsh
+!README.md
