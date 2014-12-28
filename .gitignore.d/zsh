@@ -9,4 +9,6 @@
 !.zprofile
 !.gitignore.d/
 !.gitignore.d/zsh
+!.LICENSES.d/
+!.LICENSES.d/LICENSE
 !README.md
