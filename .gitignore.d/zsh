@@ -10,5 +10,6 @@
 !.gitignore.d/
 !.gitignore.d/zsh
 !.LICENSES.d/
-!.LICENSES.d/LICENSE
-!README.md
+!.LICENSES.d/zsh
+!.README.d/
+!.README.d/zsh.md
