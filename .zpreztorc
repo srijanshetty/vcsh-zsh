@@ -25,18 +25,15 @@ zstyle ':prezto:*:*' color 'yes'
 # The order matters.
 zstyle ':prezto:load' pmodule \
   'environment' \
-  'prompt' \
   'completion' \
-  'syntax-highlighting'\
-  'history-substring-search'\
-  'node' \
-  'python' \
-  'ruby'
+  'prompt'
 
 #
 # Editor
-zstyle ':prezto:module:editor' key-bindings 'vi'
 #
+
+# Set the key mapping style to 'emacs' or 'vi'.
+zstyle ':prezto:module:editor' key-bindings 'vi'
 
 
 # Auto convert .... to ../..
@@ -61,13 +58,13 @@ zstyle ':prezto:module:editor' key-bindings 'vi'
 #
 
 # Set the query found color.
-#zstyle ':prezto:module:history-substring-search:color' found ''
+# zstyle ':prezto:module:history-substring-search:color' found ''
 
 # Set the query not found color.
-#zstyle ':prezto:module:history-substring-search:color' not-found ''
+# zstyle ':prezto:module:history-substring-search:color' not-found ''
 
 # Set the search globbing flags.
-#zstyle ':prezto:module:history-substring-search' globbing-flags ''
+# zstyle ':prezto:module:history-substring-search' globbing-flags ''
 
 #
 # Pacman
@@ -115,18 +112,18 @@ zstyle ':prezto:module:prompt' theme 'steeef'
 
 # Set syntax highlighters.
 # By default, only the main highlighter is enabled.
-zstyle ':prezto:module:syntax-highlighting' highlighters \
-  'main' \
-  'brackets' \
-  'pattern' \
-  'cursor' \
-  'root'
-
-# # Set syntax highlighting styles.
-zstyle ':prezto:module:syntax-highlighting' styles \
-  'builtin' 'fg=green' \
-  'command' 'fg=yellow' \
-  'function' 'fg=blue'
+# zstyle ':prezto:module:syntax-highlighting' highlighters \
+#   'main' \
+#   'brackets' \
+#   'pattern' \
+#   'cursor' \
+#   'root'
+#
+# # # Set syntax highlighting styles.
+# zstyle ':prezto:module:syntax-highlighting' styles \
+#   'builtin' 'fg=green' \
+#   'command' 'fg=yellow' \
+#   'function' 'fg=blue'
 
 #
 # Terminal
