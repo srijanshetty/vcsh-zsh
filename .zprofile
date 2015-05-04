@@ -1,18 +1,4 @@
-#
-# Executes commands at login pre-zshrc.
-#
-# Authors:
-#   Sorin Ionescu <sorin.ionescu@gmail.com>
-#
-
-#
-# Browser
-#
-
-if [[ "$OSTYPE" == darwin* ]]; then
-  export BROWSER='open'
-fi
-
+# Taken for Prezto (https://github.com/sorin-ionescu/prezto)
 #
 # Editors
 #
