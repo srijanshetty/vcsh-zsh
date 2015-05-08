@@ -1,2 +1,3 @@
 # Customize to your needs...
 source ~/.zsh/antigen-hs/init.zsh
+source ~/.steeef.zsh-theme
