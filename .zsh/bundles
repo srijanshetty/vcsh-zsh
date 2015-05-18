@@ -1,8 +1,6 @@
-bundle "oknowton/zsh-dwim"
 bundle "srijanshetty/custom"
 bundle "srijanshetty/node.plugin.zsh"
 bundle "edouard-lopez/yeoman-zsh-plugin"
-bundle "Tarrasch/zsh-autoenv"
 bundle "StackExchange/blackbox"
 bundle "voronkovich/gitignore.plugin.zsh"
 bundle "srijanshetty/zsh-dircolors-solarized"
