@@ -1,6 +1,2 @@
-bundle "srijanshetty/custom"
-bundle "srijanshetty/node.plugin.zsh"
-bundle "edouard-lopez/yeoman-zsh-plugin"
-bundle "voronkovich/gitignore.plugin.zsh"
 bundle "srijanshetty/zsh-dircolors-solarized"
 bundle "hchbaw/opp.zsh"
