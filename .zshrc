@@ -14,7 +14,7 @@ fi
 source ~/.zsh/antigen-hs/init.zsh
 
 # Report time for long running commands
-REPORTTIME=5
+REPORTTIME=60
 TIMEFMT="%U user %S system %P cpu %*Es total"
 
 # Periodic commands
