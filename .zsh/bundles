@@ -1,2 +1,3 @@
 bundle "srijanshetty/zsh-dircolors-solarized"
 bundle "hchbaw/opp.zsh"
+bundle "srijanshetty/zsh-suffix-alias"
