@@ -11,8 +11,6 @@ if [[ -s "${ZDOTDIR:-$HOME}/.zprezto/init.zsh" ]]; then
 fi
 
 # Customize to your needs...
-source ~/.zsh/antigen-hs/init.zsh
-
 # Report time for long running commands
 REPORTTIME=60
 TIMEFMT="%U user %S system %P cpu %*Es total"
