@@ -19,3 +19,5 @@ TIMEFMT="%U user %S system %P cpu %*Es total"
 # Runs commands if PERIOD variable is set. Runs every PERIOD
 # periodic() {
 # }
+
+export PATH="$PATH:$HOME/.rvm/bin" # Add RVM to PATH for scripting
